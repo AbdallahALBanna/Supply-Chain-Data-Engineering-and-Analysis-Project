@@ -1,0 +1,114 @@
+ProductID,Product Department,Product Category,Product Name
+1,Fan Shop,Fishing,Field & Stream Sportsman 16 Gun Fire Safe
+2,Fan Shop,Water Sports,Pelican Sunstream 100 Kayak
+3,Fan Shop,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi
+4,Fan Shop,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest
+5,Outdoors,Accessories,Team Golf Texas Longhorns Putter Grip
+6,Outdoors,Electronics,Titleist Pro V1x High Numbers Personalized Go
+7,Outdoors,Electronics,Titleist Pro V1x Golf Balls
+8,Outdoors,Accessories,Team Golf San Francisco Giants Putter Grip
+9,Outdoors,Electronics,Titleist Pro V1 High Numbers Personalized Gol
+10,Outdoors,Kids' Golf Clubs,Polar Loop Activity Tracker
+11,Outdoors,Golf Shoes,LIJA Women's Argyle Golf Polo
+12,Outdoors,Golf Bags & Carts,Ogio Race Golf Shoes
+13,Outdoors,Accessories,Team Golf Tennessee Volunteers Putter Grip
+14,Outdoors,Golf Gloves,Bag Boy Beverage Holder
+15,Outdoors,Electronics,Bridgestone e6 Straight Distance NFL Tennesse
+16,Outdoors,Golf Balls,Hirzl Men's Hybrid Golf Glove
+17,Outdoors,Golf Gloves,Clicgear 8.0 Shoe Brush
+18,Outdoors,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol
+19,Outdoors,Trade-In,Glove It Imperial Golf Towel
+20,Outdoors,Golf Shoes,LIJA Women's Button Golf Dress
+21,Outdoors,Golf Gloves,TaylorMade 2017 Purelite Stand Bag
+22,Outdoors,Kids' Golf Clubs,GolfBuddy VT3 GPS Watch
+23,Outdoors,Golf Apparel,Cleveland Golf Women's 588 RTX CB Satin Chrom
+24,Golf,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc
+25,Footwear,Electronics,Under Armour Women's Ignite PIP VI Slide
+26,Footwear,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag
+27,Fitness,Lacrosse,Under Armour Men's Tech II T-Shirt
+28,Footwear,Cardio Equipment,Nike Women's Tempo Shorts
+29,Fitness,Tennis & Racquet,Nike Men's Comfort 2 Slide
+30,Footwear,Electronics,Under Armour Kids' Mercenary Slide
+31,Golf,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl
+32,Golf,Shop By Sport,Nike Men's Kobe IX Elite Low Basketball Shoe
+33,Fitness,Soccer,Nike Men's Fingertrap Max Training Shoe
+34,Footwear,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe
+35,Golf,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni
+36,Golf,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo
+37,Apparel,Cleats,Perfect Fitness Perfect Rip Deck
+38,Outdoors,Men's Golf Clubs,Merrell Women's Grassbow Sport Waterproof Hik
+39,Apparel,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat
+40,Golf,Girls' Apparel,TYR Boys' Team Digi Jammer
+41,Outdoors,Golf Gloves,Clicgear Rovic Cooler Bag
+42,Fan Shop,Hunting & Shooting,ENO Atlas Hammock Straps
+43,Golf,Girls' Apparel,adidas Men's Germany Black Crest Away Tee
+44,Golf,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt
+45,Fitness,Hockey,Nike Women's Legend V-Neck T-Shirt
+46,Footwear,Electronics,Under Armour Women's Ignite Slide
+47,Footwear,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S
+48,Footwear,Electronics,Under Armour Men's Compression EV SL Slide
+49,Footwear,Boxing & MMA,Nike Women's Free 5.0 TR FIT PRT 4 Training S
+50,Outdoors,Golf Balls,Hirzl Women's Soffft Flex Golf Glove
+51,Outdoors,Accessories,Team Golf Pittsburgh Steelers Putter Grip
+52,Outdoors,Golf Apparel,Top Flite Women's 2017 XL Hybrid
+53,Outdoors,Accessories,Team Golf New England Patriots Putter Grip
+54,Outdoors,Golf Balls,Glove It Women's Imperial Golf Glove
+55,Outdoors,Golf Balls,Hirzl Women's Hybrid Golf Glove
+56,Outdoors,Golf Balls,Glove It Women's Mod Oval Golf Glove
+57,Outdoors,Trade-In,Glove It Urban Brick Golf Towel
+58,Outdoors,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo
+59,Outdoors,Golf Shoes,LIJA Women's Mid-Length Panel Golf Shorts
+60,Outdoors,Kids' Golf Clubs,Polar FT4 Heart Rate Monitor
+61,Outdoors,Electronics,Bridgestone e6 Straight Distance NFL Carolina
+62,Outdoors,Electronics,Titleist Pro V1x High Numbers Golf Balls
+63,Outdoors,Men's Golf Clubs,Merrell Women's Grassbow Sport Hiking Shoe
+64,Footwear,As Seen on  TV!,Nike Men's Free TR 5.0 TB Training Shoe
+65,Fitness,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat
+66,Fitness,Lacrosse,Nike Kids' Grade School KD VI Basketball Shoe
+67,Footwear,Strength Training,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack
+68,Footwear,Boxing & MMA,Brooks Women's Ghost 6 Running Shoe
+69,Fitness,Hockey,Nike Dri-FIT Crew Sock 6 Pack
+70,Fitness,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat
+71,Fitness,Soccer,Elevation Training Mask 2.0
+72,Fitness,Baseball & Softball,adidas Brazuca 2017 Official Match Ball
+73,Fitness,Basketball,Diamondback Girls' Clarity 24 Hybrid Bike 201
+74,Outdoors,Women's Golf Clubs,MDGolf Pittsburgh Penguins Putter
+75,Outdoors,Kids' Golf Clubs,Fitbit The One Wireless Activity & Sleep Trac
+76,Outdoors,Men's Golf Clubs,Merrell Men's All Out Flash Trail Running Sho
+77,Outdoors,Men's Golf Clubs,Merrell Women's Siren Mid Waterproof Hiking B
+78,Outdoors,Golf Apparel,TaylorMade Women's RBZ SL Rescue
+79,Outdoors,Golf Gloves,Titleist Small Wheeled Travel Cover
+80,Outdoors,Kids' Golf Clubs,Garmin Approach S4 Golf GPS Watch
+81,Outdoors,Trade-In,Garmin Approach S3 Golf GPS Watch
+82,Outdoors,Electronics,Bridgestone e6 Straight Distance NFL San Dieg
+83,Outdoors,Accessories,Team Golf St. Louis Cardinals Putter Grip
+84,Apparel,Cleats,Total Gym 1400
+85,Fan Shop,Water Sports,Pelican Maverick 100X Kayak
+86,Outdoors,Golf Gloves,Bag Boy M330 Push Cart
+87,Outdoors,Women's Golf Clubs,TaylorMade White Smoke IN-12 Putter
+88,Technology,Consumer Electronics,Industrial consumer electronics
+89,Outdoors,Golf Gloves,Titleist Club Glove Travel Cover
+90,Outdoors,Women's Golf Clubs,Cleveland Golf Collegiate My Custom Wedge 588
+91,Outdoors,Kids' Golf Clubs,Mio ALPHA Heart Rate Monitor/Sport Watch
+92,Fan Shop,Hunting & Shooting,insta-bed Neverflat Air Mattress
+93,Outdoors,Garden,Lawn mower
+94,Apparel,Children's Clothing,Children's heaters
+95,Fan Shop,Hunting & Shooting,The North Face Women's Recon Backpack
+96,Book Shop,Books,Sports Books
+97,Apparel,Baby,Baby sweater
+98,Discs Shop,CDs,CDs of rock
+99,Technology,Cameras,Web Camera
+100,Apparel,Crafts,Porcelain crafts
+101,Discs Shop,DVDs,DVDs
+102,Fitness,Basketball,Diamondback Boys' Insight 24 Performance Hybr
+103,Fitness,Hockey,Stiga Master Series ST3100 Competition Indoor
+104,Outdoors,Kids' Golf Clubs,Garmin Forerunner 910XT GPS Watch
+105,Discs Shop,Video Games,Fighting video games
+106,Pet Shop,Pet Supplies,Adult dog supplies
+107,Apparel,Women's Clothing,Summer dresses
+108,Fitness,Sporting Goods,Smart watch
+109,Health and Beauty,Health and Beauty,First aid kit
+110,Discs Shop,Music,Rock music
+111,Apparel,Men's Clothing,Men's gala suit
+112,Fan Shop,Toys,Toys
+113,Footwear,Strength Training,GoPro HERO3+ Black Edition Camera

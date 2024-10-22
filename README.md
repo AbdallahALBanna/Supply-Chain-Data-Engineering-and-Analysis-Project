@@ -92,7 +92,7 @@ This project leverages **data-driven insights** to improve supply chain operatio
 
 ## Team Members
 
-- **Abdallah Al-Banna** - [GitHub Profile](https://github.com/AbdallahAl-Banna)  
+- **Abdallah Al-Banna** - [GitHub Profile](https://github.com/AbdallahALBanna)  
   *Role: Visualization and analysis*
 
 - **Khaled Tarek Mohamed** - [GitHub Profile](https://github.com/KhaledTarekMohamed)  
@@ -104,5 +104,5 @@ This project leverages **data-driven insights** to improve supply chain operatio
 - **Abdelrhamn Samir** - [GitHub Profile](https://github.com/AbdelrhamnSamir)  
   *Role: ETL and Machine Learning*  
 
-- **Mohammed Elmehy** - [GitHub Profile](https://github.com/MohammedElmehy)  
+- **Mohammed Elmehy** - [GitHub Profile](https://github.com/M-Elmehy)  
   *Role: Azure DWH*  

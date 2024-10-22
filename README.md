@@ -98,7 +98,7 @@ This project leverages **data-driven insights** to improve supply chain operatio
 - **Khaled Tarek Mohamed** - [GitHub Profile](https://github.com/KhaledTarekMohamed)  
   *Role: Visualization and analysis*
 
-- **Abdelrhman Ibrahim** - [GitHub Profile](https://github.com/AbdelrhmanIbrahim)  
+- **Abdelrhman Ibrahim** - [GitHub Profile](https://github.com/ABDO176ELTAWEEL)  
   *Role: Database design*  
 
 - **Abdelrhamn Samir** - [GitHub Profile](https://github.com/AbdelrhamnSamir)  
